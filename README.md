@@ -14,14 +14,29 @@ How is the district summary affected?
 
 How is the school summary affected?
 
-• 
+• The overall passing rate declined by a little bit. Before it was 90.95% and after 90.63%.
+<img width="908" alt="Screen Shot 2022-07-07 at 10 54 47 PM" src="https://user-images.githubusercontent.com/107653012/177907872-f41df2cf-803d-485c-a453-fc2b2751cddb.png">
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+• There is no affect. 
+
 How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
+
+• It only affects 9th graders. 
+
 Scores by school spending
+
+• No change
+
 Scores by school size
+
+• No change
+
 Scores by school type
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+• No change
+
+
